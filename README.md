@@ -46,7 +46,7 @@ pip install aiohttp matplotlib numpy wordcloud fpdf2 python-dotenv
 
 3. Create a `.env` file in the project root directory:
 ```env
-ACCESS_TOKEN=your_hh_ru_api_access_token_here
+ACCESS_TOKEN=hh_api_access_token
 ```
 To obtain an access token: please refer to the [HeadHunter API documentation](https://github.com/hhru/api).
 
