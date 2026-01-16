@@ -1,4 +1,4 @@
-import project
+import src.project as project
 from unittest.mock import mock_open, patch
 
 def test_validated_input(monkeypatch):

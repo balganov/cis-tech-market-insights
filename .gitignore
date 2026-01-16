@@ -1,5 +1,4 @@
 api.env
 getToken.py
-temp.py
-/data/
-/summary/
+/.vscode/
+/__pycache__

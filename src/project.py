@@ -39,7 +39,7 @@ async def main():
         for key, value in summary.items():
             print(f"\t{key}: {value}")
 
-    top_10 = count_skills(get_skills())
+    all_skills, top_10 = count_skills(get_skills())
     print("Top 10 skills:")
     for skill, count in top_10:
         print(f"\t{skill}: {count}")
@@ -51,7 +51,7 @@ async def main():
 
         #Counting skills occurances from each vacancy URL and generating wordcloud and save it to png file
         print("Creating a wordcloud for the skills... ")
-        wcloud = WordCloud(background_color='white', width=2000,height=1200).generate_from_frequencies(count_skills)
+        wcloud = WordCloud(background_color='white', width=2000,height=1200).generate_from_frequencies(all_skills)
         wcloud.to_file("summary/word_cloud.png")
         print("Creating a PDF file with our data... ")
         generate_pdf("summary/charts.png", "summary/word_cloud.png")
@@ -245,8 +245,8 @@ def count_skills(list):
         else:
             seen.append(e)
             skills[e] = 1
-
-    return sorted(skills.items(),key=lambda item: item[1],reverse=True)[0:10]
+    sorted_items = sorted(skills.items(),key=lambda item: item[1],reverse=True)
+    return dict(sorted_items), sorted_items[0:10]
 
 def create_dashboard(data):
     #Here we create a two-dimensional plot that has 2 rows and 3 comlums resulting in 6 charts in total
