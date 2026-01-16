@@ -1,5 +1,6 @@
 # CIS Tech Market Insights
-### Video Demo:  <URL HERE>
+### Video Demo:
+[![CIS Tech Market Insights](https://img.youtube.com/vi/LlIFdIQsFtc/0.jpg)](https://www.youtube.com/watch?v=LlIFdIQsFtc)
 ### Description:
 A Python application that fetches and analyzes job vacancies from the HeadHunter (hh.ru) API. The tool helps job seekers understand market trends by providing insights into job requirements, locations, industries, and required skills through interactive visualizations and reports.
 
