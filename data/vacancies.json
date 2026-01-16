@@ -1,6 +1,2127 @@
 {
     "items": [
         {
+            "id": "129475866",
+            "premium": false,
+            "name": "AI / LLM Engineer (Инженер)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "160",
+                "name": "Almaty",
+                "url": "https://api.hh.ru/areas/160?locale=EN"
+            },
+            "salary": {
+                "from": 1000000,
+                "to": null,
+                "currency": "KZT",
+                "gross": false
+            },
+            "salary_range": {
+                "from": 1000000,
+                "to": null,
+                "currency": "KZT",
+                "gross": false,
+                "mode": {
+                    "id": "SERVICE",
+                    "name": "Per service"
+                },
+                "frequency": null
+            },
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": {
+                "city": "Алматы",
+                "street": "Бостандыкский район",
+                "building": null,
+                "lat": 43.210334,
+                "lng": 76.903469,
+                "description": null,
+                "raw": "Алматы, Бостандыкский район",
+                "metro": {
+                    "station_name": "Alatau",
+                    "line_name": "Pervaya",
+                    "station_id": "64.436",
+                    "line_id": "64",
+                    "lat": 43.239041,
+                    "lng": 76.897612
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Alatau",
+                        "line_name": "Pervaya",
+                        "station_id": "64.436",
+                        "line_id": "64",
+                        "lat": 43.239041,
+                        "lng": 76.897612
+                    },
+                    {
+                        "station_name": "Auezov Theater",
+                        "line_name": "Pervaya",
+                        "station_id": "64.435",
+                        "line_id": "64",
+                        "lat": 43.240362,
+                        "lng": 76.917519
+                    },
+                    {
+                        "station_name": "Moscow",
+                        "line_name": "Pervaya",
+                        "station_id": "64.511",
+                        "line_id": "64",
+                        "lat": 43.23,
+                        "lng": 76.867
+                    },
+                    {
+                        "station_name": "Sayran",
+                        "line_name": "Pervaya",
+                        "station_id": "64.510",
+                        "line_id": "64",
+                        "lat": 43.2362,
+                        "lng": 76.8764
+                    }
+                ],
+                "id": "21792500"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-15T14:53:36+0300",
+            "created_at": "2026-01-15T14:53:36+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129475866",
+            "show_logo_in_search": null,
+            "show_contacts": false,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/129475866?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/129475866",
+            "relations": [],
+            "employer": {
+                "id": "5074079",
+                "name": "sPoint",
+                "url": "https://api.hh.ru/employers/5074079?locale=EN",
+                "alternate_url": "https://hh.ru/employer/5074079",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original-round/6667797.png",
+                    "90": "https://img.hhcdn.ru/employer-logo-round/6667798.png",
+                    "240": "https://img.hhcdn.ru/employer-logo-round/6667799.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5074079&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Знания LLM-стека: RAG и базы знаний (ingestion, vector search, reranking, доступы), inference/serving и оптимизация. Опыт работы с LLM...",
+                "responsibility": "Проектирование и внедрение LLM-решений в B2B-продукт (ассистент / генерация документов / RAG). Развертывание и эксплуатация LLM в on..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Remote working"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Remotely"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "FLEXIBLE",
+                    "name": "Negotiated"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FLEXIBLE",
+                    "name": "Flexible"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "165",
+                    "name": "Data scientist"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "Between 1 and 3 years"
+            },
+            "employment": {
+                "id": "project",
+                "name": "Project work"
+            },
+            "employment_form": {
+                "id": "PROJECT",
+                "name": "Project or one-time task"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "129474374",
+            "premium": false,
+            "name": "Junior аналитик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "160",
+                "name": "Almaty",
+                "url": "https://api.hh.ru/areas/160?locale=EN"
+            },
+            "salary": {
+                "from": null,
+                "to": 300000,
+                "currency": "KZT",
+                "gross": false
+            },
+            "salary_range": {
+                "from": null,
+                "to": 300000,
+                "currency": "KZT",
+                "gross": false,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "Per month"
+                },
+                "frequency": null
+            },
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": {
+                "city": "Алматы",
+                "street": "микрорайон Самал-2",
+                "building": "20",
+                "lat": 43.229005,
+                "lng": 76.957188,
+                "description": null,
+                "raw": "Алматы, микрорайон Самал-2, 20",
+                "metro": {
+                    "station_name": "Abay",
+                    "line_name": "Pervaya",
+                    "station_id": "64.433",
+                    "line_id": "64",
+                    "lat": 43.242548,
+                    "lng": 76.949588
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Abay",
+                        "line_name": "Pervaya",
+                        "station_id": "64.433",
+                        "line_id": "64",
+                        "lat": 43.242548,
+                        "lng": 76.949588
+                    }
+                ],
+                "id": "17692465"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-15T14:31:40+0300",
+            "created_at": "2026-01-15T14:31:40+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129474374",
+            "show_logo_in_search": null,
+            "show_contacts": false,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/129474374?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/129474374",
+            "relations": [],
+            "employer": {
+                "id": "11680164",
+                "name": "Atamura Group",
+                "url": "https://api.hh.ru/employers/11680164?locale=EN",
+                "alternate_url": "https://hh.ru/employer/11680164",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1452049.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/7427817.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/7427818.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11680164&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Power BI: уверенный базовый уровень (моделирование данных + визуализация). Excel/Google Sheets: продвинутый уровень (сводные таблицы, вложенные функции). ",
+                "responsibility": "Работа с Power BI: создание и поддержка дашбордов, визуализация метрик (выручка, конверсия, средний чек). Аналитика Bitrix24: сбор данных по..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Full day"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "At the employer's location"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "156",
+                    "name": "BI analyst, data analyst"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "Between 1 and 3 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "129205813",
+            "premium": false,
+            "name": "Business/Systems Analyst (Middle)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "160",
+                "name": "Almaty",
+                "url": "https://api.hh.ru/areas/160?locale=EN"
+            },
+            "salary": null,
+            "salary_range": null,
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": {
+                "city": "Алматы",
+                "street": "проспект Жибек Жолы",
+                "building": "135",
+                "lat": 43.26138,
+                "lng": 76.929242,
+                "description": null,
+                "raw": "Алматы, проспект Жибек Жолы, 135",
+                "metro": {
+                    "station_name": "Almaly",
+                    "line_name": "Pervaya",
+                    "station_id": "64.432",
+                    "line_id": "64",
+                    "lat": 43.251295,
+                    "lng": 76.945456
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Almaly",
+                        "line_name": "Pervaya",
+                        "station_id": "64.432",
+                        "line_id": "64",
+                        "lat": 43.251295,
+                        "lng": 76.945456
+                    },
+                    {
+                        "station_name": "Raiymbek Batyr",
+                        "line_name": "Pervaya",
+                        "station_id": "64.430",
+                        "line_id": "64",
+                        "lat": 43.271201,
+                        "lng": 76.9448
+                    },
+                    {
+                        "station_name": "Zhibek Zholy",
+                        "line_name": "Pervaya",
+                        "station_id": "64.431",
+                        "line_id": "64",
+                        "lat": 43.260199,
+                        "lng": 76.946103
+                    }
+                ],
+                "id": "17385883"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-15T13:12:08+0300",
+            "created_at": "2026-01-15T13:12:08+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129205813",
+            "show_logo_in_search": null,
+            "show_contacts": false,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/129205813?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/129205813",
+            "relations": [],
+            "employer": {
+                "id": "11721581",
+                "name": "Частная компания Solva Technology Ltd.",
+                "url": "https://api.hh.ru/employers/11721581?locale=EN",
+                "alternate_url": "https://hh.ru/employer/11721581",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original-round/7127921.png",
+                    "90": "https://img.hhcdn.ru/employer-logo-round/7127922.png",
+                    "240": "https://img.hhcdn.ru/employer-logo-round/7127923.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11721581&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "От 3-х лет опыта в роли аналитика в IT и/или Финансовой сфере. Знание техник сбора, анализа, формализации требований...",
+                "responsibility": "Работа в составе сильной группы бизнес/системных аналитиков на международном финтех продукте в области онлайн-кредитования. Развитие как в бизнес..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Full day"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "HYBRID",
+                    "name": "Hybrid"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "156",
+                    "name": "BI analyst, data analyst"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "Between 3 and 6 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "129466764",
+            "premium": false,
+            "name": "Аналитик SQL",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "159",
+                "name": "Astana",
+                "url": "https://api.hh.ru/areas/159?locale=EN"
+            },
+            "salary": {
+                "from": 500000,
+                "to": 600000,
+                "currency": "KZT",
+                "gross": true
+            },
+            "salary_range": {
+                "from": 500000,
+                "to": 600000,
+                "currency": "KZT",
+                "gross": true,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "Per month"
+                },
+                "frequency": null
+            },
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-15T12:40:14+0300",
+            "created_at": "2026-01-15T12:40:14+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129466764",
+            "show_contacts": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/129466764?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/129466764",
+            "relations": [],
+            "employer": {
+                "id": "12463871",
+                "name": "СОРОКИН АНАТОЛИЙ",
+                "url": "https://api.hh.ru/employers/12463871?locale=EN",
+                "alternate_url": "https://hh.ru/employer/12463871",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12463871&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы SQL-аналитиком / Data Analyst от 1 года. Уверенное владение SQL (PostgreSQL/MySQL: агрегатные и оконные функции, CTE, подзапросы). ",
+                "responsibility": "Анализ данных из внутренних баз и систем. Написание и оптимизация SQL-запросов. Формирование аналитических отчётов и сводных таблиц. "
+            },
+            "contacts": {
+                "name": null,
+                "email": null,
+                "phones": []
+            },
+            "schedule": {
+                "id": "remote",
+                "name": "Remote working"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Remotely"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_9",
+                    "name": "9 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "156",
+                    "name": "BI analyst, data analyst"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "Between 1 and 3 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "129413399",
+            "premium": false,
+            "name": "Менеджер по ценообразованию (продукт)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "159",
+                "name": "Astana",
+                "url": "https://api.hh.ru/areas/159?locale=EN"
+            },
+            "salary": {
+                "from": 200000,
+                "to": null,
+                "currency": "KZT",
+                "gross": false
+            },
+            "salary_range": {
+                "from": 200000,
+                "to": null,
+                "currency": "KZT",
+                "gross": false,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "Per month"
+                },
+                "frequency": {
+                    "id": "MONTHLY",
+                    "name": "Once a month"
+                }
+            },
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": {
+                "city": "Астана",
+                "street": "проспект Туран",
+                "building": "41/1",
+                "lat": 51.126194,
+                "lng": 71.401099,
+                "description": null,
+                "raw": "Астана, проспект Туран, 41/1",
+                "metro": null,
+                "metro_stations": [],
+                "id": "5849193"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-15T10:46:59+0300",
+            "created_at": "2026-01-15T10:46:59+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129413399",
+            "show_logo_in_search": null,
+            "show_contacts": false,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/129413399?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/129413399",
+            "relations": [],
+            "employer": {
+                "id": "5111532",
+                "name": "SELFIE-TRAVEL (СЕЛФИ-ТРЕВЕЛ)",
+                "url": "https://api.hh.ru/employers/5111532?locale=EN",
+                "alternate_url": "https://hh.ru/employer/5111532",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1446854.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/7407040.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/7407041.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5111532&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Аналитический склад ума. Продвинутый пользователь ПК ( навык и опыт работы в Excel,сводные таблицы, обработка больших массивов и т.д.). ",
+                "responsibility": "Обработка файлов Excel в корпоративный формат. Анализ, сверка и корректировка изменения цен. Работа с базами данных. Установка цен на сайте. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Full day"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "At the employer's location"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "156",
+                    "name": "BI analyst, data analyst"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "Between 1 and 3 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "128941450",
+            "premium": false,
+            "name": "Project Manager (Фармацевтика)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": true,
+            "area": {
+                "id": "160",
+                "name": "Almaty",
+                "url": "https://api.hh.ru/areas/160?locale=EN"
+            },
+            "salary": null,
+            "salary_range": null,
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": {
+                "city": "Алматы",
+                "street": "микрорайон Самал-2",
+                "building": "97",
+                "lat": 43.233505,
+                "lng": 76.954376,
+                "description": null,
+                "raw": "Алматы, микрорайон Самал-2, 97",
+                "metro": {
+                    "station_name": "Abay",
+                    "line_name": "Pervaya",
+                    "station_id": "64.433",
+                    "line_id": "64",
+                    "lat": 43.242548,
+                    "lng": 76.949588
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Abay",
+                        "line_name": "Pervaya",
+                        "station_id": "64.433",
+                        "line_id": "64",
+                        "lat": 43.242548,
+                        "lng": 76.949588
+                    }
+                ],
+                "id": "20854466"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-15T10:41:35+0300",
+            "created_at": "2026-01-15T10:41:35+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=128941450",
+            "show_logo_in_search": null,
+            "show_contacts": false,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/128941450?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/128941450",
+            "relations": [],
+            "employer": {
+                "id": "4517249",
+                "name": "SaaPharma",
+                "url": "https://api.hh.ru/employers/4517249?locale=EN",
+                "alternate_url": "https://hh.ru/employer/4517249",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original-round/7127869.png",
+                    "90": "https://img.hhcdn.ru/employer-logo-round/7127870.png",
+                    "240": "https://img.hhcdn.ru/employer-logo-round/7127871.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4517249&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Мы ищем опытного Project Manager с опытом работы в фармацевтической, биотехнологической или медицинской сфере. Требуемые навыки. Обязательный опыт работы в...",
+                "responsibility": "Планирование проектов и разработка детальных проектных планов (сроки, бюджет, ресурсы, этапы). Координация участников проекта, включая внешних подрядчиков и партнёров. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Full day"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "At the employer's location"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "164",
+                    "name": "Product analyst"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "Between 3 and 6 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "129271894",
+            "premium": false,
+            "name": "Аналитик данных (по закупкам)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "159",
+                "name": "Astana",
+                "url": "https://api.hh.ru/areas/159?locale=EN"
+            },
+            "salary": {
+                "from": 600000,
+                "to": 800000,
+                "currency": "KZT",
+                "gross": false
+            },
+            "salary_range": {
+                "from": 600000,
+                "to": 800000,
+                "currency": "KZT",
+                "gross": false,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "Per month"
+                },
+                "frequency": {
+                    "id": "TWICE_PER_MONTH",
+                    "name": "Twice a month"
+                }
+            },
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": {
+                "city": "Астана",
+                "street": "улица Динмухамеда Кунаева",
+                "building": "29/1",
+                "lat": 51.131468,
+                "lng": 71.42901,
+                "description": null,
+                "raw": "Астана, улица Динмухамеда Кунаева, 29/1",
+                "metro": null,
+                "metro_stations": [],
+                "id": "19334870"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-15T10:09:06+0300",
+            "created_at": "2026-01-15T10:09:06+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129271894",
+            "show_logo_in_search": null,
+            "show_contacts": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/129271894?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/129271894",
+            "relations": [],
+            "employer": {
+                "id": "1136228",
+                "name": "Группа компаний SILLAN",
+                "url": "https://api.hh.ru/employers/1136228?locale=EN",
+                "alternate_url": "https://hh.ru/employer/1136228",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original-round/2360699.png",
+                    "90": "https://img.hhcdn.ru/employer-logo-round/2360700.png",
+                    "240": "https://img.hhcdn.ru/employer-logo-round/2360701.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1136228&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы в аналитике закупок, продаж или e-commerce от 3 лет. Знание Bitrix24 и 1С на уровне...",
+                "responsibility": "Анализировать данные из Bitrix24 и 1С (продажи, остатки, закупки). Отслеживать, какие товары активно продаются онлайн, а какие зависают. "
+            },
+            "contacts": {
+                "name": null,
+                "email": null,
+                "phones": []
+            },
+            "schedule": {
+                "id": "fullDay",
+                "name": "Full day"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "HYBRID",
+                    "name": "Hybrid"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "156",
+                    "name": "BI analyst, data analyst"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "Between 3 and 6 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "129266971",
+            "premium": false,
+            "name": "HR-аналитик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": true,
+            "area": {
+                "id": "160",
+                "name": "Almaty",
+                "url": "https://api.hh.ru/areas/160?locale=EN"
+            },
+            "salary": null,
+            "salary_range": null,
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": {
+                "city": "Алматы",
+                "street": "улица Жусупбека Елебекова",
+                "building": "10",
+                "lat": 43.228407,
+                "lng": 76.963476,
+                "description": null,
+                "raw": "Алматы, улица Жусупбека Елебекова, 10",
+                "metro": {
+                    "station_name": "Abay",
+                    "line_name": "Pervaya",
+                    "station_id": "64.433",
+                    "line_id": "64",
+                    "lat": 43.242548,
+                    "lng": 76.949588
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Abay",
+                        "line_name": "Pervaya",
+                        "station_id": "64.433",
+                        "line_id": "64",
+                        "lat": 43.242548,
+                        "lng": 76.949588
+                    },
+                    {
+                        "station_name": "Almaly",
+                        "line_name": "Pervaya",
+                        "station_id": "64.432",
+                        "line_id": "64",
+                        "lat": 43.251295,
+                        "lng": 76.945456
+                    },
+                    {
+                        "station_name": "Baikonur",
+                        "line_name": "Pervaya",
+                        "station_id": "64.434",
+                        "line_id": "64",
+                        "lat": 43.240401,
+                        "lng": 76.927696
+                    },
+                    {
+                        "station_name": "Zhibek Zholy",
+                        "line_name": "Pervaya",
+                        "station_id": "64.431",
+                        "line_id": "64",
+                        "lat": 43.260199,
+                        "lng": 76.946103
+                    }
+                ],
+                "id": "19658624"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-15T09:24:10+0300",
+            "created_at": "2026-01-15T09:24:10+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129266971",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "show_contacts": false,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/129266971?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/129266971",
+            "relations": [],
+            "employer": {
+                "id": "241598",
+                "name": "АК Алтыналмас",
+                "url": "https://api.hh.ru/employers/241598?locale=EN",
+                "alternate_url": "https://hh.ru/employer/241598",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original-round/3161255.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo-round/3161256.jpeg",
+                    "240": "https://img.hhcdn.ru/employer-logo-round/3161257.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=241598&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Знание инструментов бизнес-аналитики (Power BI (обязательно), Tableau/ Qlik Sense). Навыки написания SQL запросов (предпочтительно). Опыт реализации проектов по автоматизации...",
+                "responsibility": "Разработка и поддержка Power BI Dashboard по HR-отчетности (численность, фонд оплаты труда, компенсационные выплаты и социальные расходы) из различных..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Full day"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "156",
+                    "name": "BI analyst, data analyst"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "Between 1 and 3 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "128902704",
+            "premium": false,
+            "name": "Продуктовый аналитик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "160",
+                "name": "Almaty",
+                "url": "https://api.hh.ru/areas/160?locale=EN"
+            },
+            "salary": null,
+            "salary_range": null,
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": {
+                "city": "Алматы",
+                "street": "проспект Достык",
+                "building": "97А",
+                "lat": 43.229741,
+                "lng": 76.958311,
+                "description": null,
+                "raw": "Алматы, проспект Достык, 97А",
+                "metro": {
+                    "station_name": "Abay",
+                    "line_name": "Pervaya",
+                    "station_id": "64.433",
+                    "line_id": "64",
+                    "lat": 43.242548,
+                    "lng": 76.949588
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Abay",
+                        "line_name": "Pervaya",
+                        "station_id": "64.433",
+                        "line_id": "64",
+                        "lat": 43.242548,
+                        "lng": 76.949588
+                    },
+                    {
+                        "station_name": "Almaly",
+                        "line_name": "Pervaya",
+                        "station_id": "64.432",
+                        "line_id": "64",
+                        "lat": 43.251295,
+                        "lng": 76.945456
+                    },
+                    {
+                        "station_name": "Auezov Theater",
+                        "line_name": "Pervaya",
+                        "station_id": "64.435",
+                        "line_id": "64",
+                        "lat": 43.240362,
+                        "lng": 76.917519
+                    },
+                    {
+                        "station_name": "Baikonur",
+                        "line_name": "Pervaya",
+                        "station_id": "64.434",
+                        "line_id": "64",
+                        "lat": 43.240401,
+                        "lng": 76.927696
+                    }
+                ],
+                "id": "18326696"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-15T08:44:40+0300",
+            "created_at": "2026-01-15T08:44:40+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=128902704",
+            "show_logo_in_search": null,
+            "show_contacts": false,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/128902704?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/128902704",
+            "relations": [],
+            "employer": {
+                "id": "10828629",
+                "name": "Freedom Media",
+                "url": "https://api.hh.ru/employers/10828629?locale=EN",
+                "alternate_url": "https://hh.ru/employer/10828629",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original-round/6796241.png",
+                    "90": "https://img.hhcdn.ru/employer-logo-round/6796242.png",
+                    "240": "https://img.hhcdn.ru/employer-logo-round/6796243.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10828629&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Что нужно от тебя: Опыт работы с event-based системами аналитики (Amplitude, AppsFlyer, Firebase Analytics, PowerBI и др.). ",
+                "responsibility": "Помочь бизнесу принимать решения на основе анализа данных (точных цифр). Прогнозирование различных параметров с учетом имеющихся данных. Выявлять проблемы, возникающие..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Full day"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "At the employer's location"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "164",
+                    "name": "Product analyst"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "Between 1 and 3 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "129446970",
+            "premium": false,
+            "name": "Аналитик данных",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": true,
+            "area": {
+                "id": "160",
+                "name": "Almaty",
+                "url": "https://api.hh.ru/areas/160?locale=EN"
+            },
+            "salary": null,
+            "salary_range": null,
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": {
+                "city": "Алматы",
+                "street": "проспект Назарбаева",
+                "building": "223",
+                "lat": 43.23229,
+                "lng": 76.948573,
+                "description": null,
+                "raw": "Алматы, проспект Назарбаева, 223",
+                "metro": null,
+                "metro_stations": [],
+                "id": "15131529"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-15T08:02:58+0300",
+            "created_at": "2026-01-15T08:02:58+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129446970",
+            "show_logo_in_search": null,
+            "show_contacts": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/129446970?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/129446970",
+            "relations": [],
+            "employer": {
+                "id": "6172872",
+                "name": "MultiBRAND COMPANY (Avatariya)",
+                "url": "https://api.hh.ru/employers/6172872?locale=EN",
+                "alternate_url": "https://hh.ru/employer/6172872",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original-round/6475512.png",
+                    "90": "https://img.hhcdn.ru/employer-logo-round/6475513.png",
+                    "240": "https://img.hhcdn.ru/employer-logo-round/6475514.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6172872&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы от 3-х лет. Знание Power Bi.",
+                "responsibility": "С подключенными источниками: 1С Розница, 1С Бухгалтерия, Butrix24, IIKO ресторана. При необходимости догружать и подключать новые источники..."
+            },
+            "contacts": {
+                "name": null,
+                "email": null,
+                "phones": []
+            },
+            "schedule": {
+                "id": "fullDay",
+                "name": "Full day"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "At the employer's location"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "156",
+                    "name": "BI analyst, data analyst"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "Between 3 and 6 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "128931901",
+            "premium": false,
+            "name": "Azure Data Architect",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "160",
+                "name": "Almaty",
+                "url": "https://api.hh.ru/areas/160?locale=EN"
+            },
+            "salary": null,
+            "salary_range": null,
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-15T00:54:48+0300",
+            "created_at": "2026-01-15T00:54:48+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=128931901",
+            "show_logo_in_search": null,
+            "show_contacts": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/128931901?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/128931901",
+            "relations": [],
+            "employer": {
+                "id": "850334",
+                "name": "ОнТаргет ЛАБС",
+                "url": "https://api.hh.ru/employers/850334?locale=EN",
+                "alternate_url": "https://hh.ru/employer/850334",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original-round/567637.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo-round/567638.jpeg",
+                    "240": "https://img.hhcdn.ru/employer-logo-round/567639.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=850334&locale=EN",
+                "country_id": 1,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "5+ years of hands-on experience as a data architect or senior data engineer in Azure environments. ",
+                "responsibility": "Architecture & Technical Leadership. Design and implement scalable, high-performance data architectures on Azure Databricks and Microsoft Fabric. Lead end-to..."
+            },
+            "contacts": {
+                "name": null,
+                "email": null,
+                "phones": []
+            },
+            "schedule": {
+                "id": "remote",
+                "name": "Remote working"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Remotely"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "156",
+                    "name": "BI analyst, data analyst"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "moreThan6",
+                "name": "More than 6 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "129436539",
+            "premium": false,
+            "name": "ML engineer (CV)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "159",
+                "name": "Astana",
+                "url": "https://api.hh.ru/areas/159?locale=EN"
+            },
+            "salary": null,
+            "salary_range": null,
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-14T17:26:38+0300",
+            "created_at": "2026-01-14T17:26:38+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129436539",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "show_contacts": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/129436539?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/129436539",
+            "relations": [],
+            "employer": {
+                "id": "11705733",
+                "name": "Mercury Development",
+                "url": "https://api.hh.ru/employers/11705733?locale=EN",
+                "alternate_url": "https://hh.ru/employer/11705733",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1397185.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/7208515.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/7208516.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11705733&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Expert experience with Python and packages (Numpy, Pandas, Matplotlib, Sklearn). Knowledge of classical ML algorithms. Experience with Computer Vision algorithms...",
+                "responsibility": "Come and create the future with us!"
+            },
+            "contacts": {
+                "name": null,
+                "email": null,
+                "phones": []
+            },
+            "schedule": {
+                "id": "remote",
+                "name": "Remote working"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Remotely"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "165",
+                    "name": "Data scientist"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "Between 3 and 6 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "129226927",
+            "premium": false,
+            "name": "Data Scientist",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "160",
+                "name": "Almaty",
+                "url": "https://api.hh.ru/areas/160?locale=EN"
+            },
+            "salary": {
+                "from": 4000,
+                "to": 5000,
+                "currency": "USD",
+                "gross": true
+            },
+            "salary_range": {
+                "from": 4000,
+                "to": 5000,
+                "currency": "USD",
+                "gross": true,
+                "mode": {
+                    "id": "MONTH",
+                    "name": "Per month"
+                },
+                "frequency": {
+                    "id": "MONTHLY",
+                    "name": "Once a month"
+                }
+            },
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-14T17:13:36+0300",
+            "created_at": "2026-01-14T17:13:36+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129226927",
+            "show_logo_in_search": null,
+            "show_contacts": false,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/129226927?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/129226927",
+            "relations": [],
+            "employer": {
+                "id": "250",
+                "name": "COMTEK Inc.",
+                "url": "https://api.hh.ru/employers/250?locale=EN",
+                "alternate_url": "https://hh.ru/employer/250",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original-round/2291211.png",
+                    "90": "https://img.hhcdn.ru/employer-logo-round/2291212.png",
+                    "240": "https://img.hhcdn.ru/employer-logo-round/2291213.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=250&locale=EN",
+                "country_id": 1,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "5 лет опыта кодирования на Python. - 5 лет работы с ML. - 5 лет SQL. - Dashboarding. - Минимум 1 год опыта работы...",
+                "responsibility": "Развертывания моделей машинного обучения."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Full day"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "165",
+                    "name": "Data scientist"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "moreThan6",
+                "name": "More than 6 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "129435528",
+            "premium": false,
+            "name": "Аналитик данных",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "172",
+                "name": "Kostanay",
+                "url": "https://api.hh.ru/areas/172?locale=EN"
+            },
+            "salary": null,
+            "salary_range": null,
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-14T17:11:09+0300",
+            "created_at": "2026-01-14T17:11:09+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129435528",
+            "show_logo_in_search": null,
+            "show_contacts": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/129435528?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/129435528",
+            "relations": [],
+            "employer": {
+                "id": "10828698",
+                "name": "Ломбард Деньги населению",
+                "url": "https://api.hh.ru/employers/10828698?locale=EN",
+                "alternate_url": "https://hh.ru/employer/10828698",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original-round/6838009.png",
+                    "90": "https://img.hhcdn.ru/employer-logo-round/6838010.png",
+                    "240": "https://img.hhcdn.ru/employer-logo-round/6838011.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10828698&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Имеете успешный опыт работы в данной сфере от 1-х лет и более, Приветствуется опыт работы в МФО, банках, B...",
+                "responsibility": "Действующие высоконагруженные проекты."
+            },
+            "contacts": {
+                "name": null,
+                "email": null,
+                "phones": []
+            },
+            "schedule": {
+                "id": "remote",
+                "name": "Remote working"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "REMOTE",
+                    "name": "Remotely"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "156",
+                    "name": "BI analyst, data analyst"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "Between 1 and 3 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "129427673",
+            "premium": false,
+            "name": "Anaplan Solution Architect",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "160",
+                "name": "Almaty",
+                "url": "https://api.hh.ru/areas/160?locale=EN"
+            },
+            "salary": null,
+            "salary_range": null,
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": {
+                "city": "Алматы",
+                "street": "улица Мукана Тулебаева",
+                "building": "95/1",
+                "lat": 43.25393960940888,
+                "lng": 76.94826100654535,
+                "description": null,
+                "raw": "Алматы, улица Мукана Тулебаева, 95/1",
+                "metro": {
+                    "station_name": "Abay",
+                    "line_name": "Pervaya",
+                    "station_id": "64.433",
+                    "line_id": "64",
+                    "lat": 43.242548,
+                    "lng": 76.949588
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Abay",
+                        "line_name": "Pervaya",
+                        "station_id": "64.433",
+                        "line_id": "64",
+                        "lat": 43.242548,
+                        "lng": 76.949588
+                    },
+                    {
+                        "station_name": "Almaly",
+                        "line_name": "Pervaya",
+                        "station_id": "64.432",
+                        "line_id": "64",
+                        "lat": 43.251295,
+                        "lng": 76.945456
+                    },
+                    {
+                        "station_name": "Raiymbek Batyr",
+                        "line_name": "Pervaya",
+                        "station_id": "64.430",
+                        "line_id": "64",
+                        "lat": 43.271201,
+                        "lng": 76.9448
+                    },
+                    {
+                        "station_name": "Zhibek Zholy",
+                        "line_name": "Pervaya",
+                        "station_id": "64.431",
+                        "line_id": "64",
+                        "lat": 43.260199,
+                        "lng": 76.946103
+                    }
+                ],
+                "id": "21953590"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-14T15:18:11+0300",
+            "created_at": "2026-01-14T15:18:11+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129427673",
+            "show_logo_in_search": null,
+            "show_contacts": false,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/129427673?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/129427673",
+            "relations": [],
+            "employer": {
+                "id": "12537021",
+                "name": "Планинго Центральная Азия",
+                "url": "https://api.hh.ru/employers/12537021?locale=EN",
+                "alternate_url": "https://hh.ru/employer/12537021",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original/1484882.png",
+                    "90": "https://img.hhcdn.ru/employer-logo/12229895.png",
+                    "240": "https://img.hhcdn.ru/employer-logo/12229896.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=12537021&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Experience working as an Anaplan Architect. Participation in real-life projects for automating business processes. Experience in implementing projects using...",
+                "responsibility": "Participate in projects as an architect using the Anaplan system. Distribute tasks and oversee their execution within the project team. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "remote",
+                "name": "Remote working"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "At the employer's location"
+                },
+                {
+                    "id": "REMOTE",
+                    "name": "Remotely"
+                },
+                {
+                    "id": "HYBRID",
+                    "name": "Hybrid"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_9",
+                    "name": "9 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "FIVE_ON_TWO_OFF",
+                    "name": "5/2"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "156",
+                    "name": "BI analyst, data analyst"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between3And6",
+                "name": "Between 3 and 6 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "129196709",
+            "premium": false,
+            "name": "Менеджер по анализу данных",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "160",
+                "name": "Almaty",
+                "url": "https://api.hh.ru/areas/160?locale=EN"
+            },
+            "salary": null,
+            "salary_range": null,
+            "type": {
+                "id": "open",
+                "name": "Open"
+            },
+            "address": {
+                "city": "Алматы",
+                "street": "улица Майлина",
+                "building": "230",
+                "lat": 43.328997,
+                "lng": 76.981173,
+                "description": null,
+                "raw": "Алматы, улица Майлина, 230",
+                "metro": null,
+                "metro_stations": [],
+                "id": "6867786"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2026-01-14T14:38:22+0300",
+            "created_at": "2026-01-14T14:38:22+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129196709",
+            "show_logo_in_search": null,
+            "show_contacts": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/129196709?locale=EN&host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/129196709",
+            "relations": [],
+            "employer": {
+                "id": "967285",
+                "name": "Футбольный клуб Кайрат",
+                "url": "https://api.hh.ru/employers/967285?locale=EN",
+                "alternate_url": "https://hh.ru/employer/967285",
+                "logo_urls": {
+                    "original": "https://img.hhcdn.ru/employer-logo-original-round/6297277.jpeg",
+                    "90": "https://img.hhcdn.ru/employer-logo-round/6297278.jpeg",
+                    "240": "https://img.hhcdn.ru/employer-logo-round/6297279.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=967285&locale=EN",
+                "country_id": 3,
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Высшее образование (аналитика, экономика, математика, статистика, IT). Опыт работы в аналитике данных от 2–3 лет. Опыт работы в спортивной...",
+                "responsibility": "Анализ спортивных показателей игроков и команд (игровая статистика, нагрузка, эффективность). Подготовка аналитических отчетов и дашбордов для руководства клуба и тренерского..."
+            },
+            "contacts": {
+                "name": null,
+                "email": null,
+                "phones": []
+            },
+            "schedule": {
+                "id": "fullDay",
+                "name": "Full day"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "fly_in_fly_out_duration": [],
+            "work_format": [
+                {
+                    "id": "ON_SITE",
+                    "name": "At the employer's location"
+                }
+            ],
+            "working_hours": [
+                {
+                    "id": "HOURS_8",
+                    "name": "8 hours"
+                }
+            ],
+            "work_schedule_by_days": [
+                {
+                    "id": "SIX_ON_ONE_OFF",
+                    "name": "6/1"
+                }
+            ],
+            "night_shifts": false,
+            "professional_roles": [
+                {
+                    "id": "156",
+                    "name": "BI analyst, data analyst"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "Between 1 and 3 years"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Full time"
+            },
+            "employment_form": {
+                "id": "FULL",
+                "name": "Full-time"
+            },
+            "internship": false,
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
             "id": "129419635",
             "premium": false,
             "name": "Regional Marketing Excellence Business Partner",
@@ -311,138 +2432,6 @@
             "snippet": {
                 "requirement": "SQL и Python (pandas, numpy, sklearn). Основы ML и статистики. Навыки проведения A/B тестов. Опыт работы с e-commerce...",
                 "responsibility": "Создание рекомендательных систем для увеличения продаж. Анализ результатов A/B тестов. Кластеризация клиентов, персонализация товаров и бонусов. Работа с маркетинговой..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Full day"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [
-                {
-                    "id": "ON_SITE",
-                    "name": "At the employer's location"
-                }
-            ],
-            "working_hours": [
-                {
-                    "id": "HOURS_8",
-                    "name": "8 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "156",
-                    "name": "BI analyst, data analyst"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between1And3",
-                "name": "Between 1 and 3 years"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "129413399",
-            "premium": false,
-            "name": "Менеджер по ценообразованию (продукт)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "159",
-                "name": "Astana",
-                "url": "https://api.hh.ru/areas/159?locale=EN"
-            },
-            "salary": {
-                "from": 200000,
-                "to": null,
-                "currency": "KZT",
-                "gross": false
-            },
-            "salary_range": {
-                "from": 200000,
-                "to": null,
-                "currency": "KZT",
-                "gross": false,
-                "mode": {
-                    "id": "MONTH",
-                    "name": "Per month"
-                },
-                "frequency": {
-                    "id": "MONTHLY",
-                    "name": "Once a month"
-                }
-            },
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": {
-                "city": "Астана",
-                "street": "проспект Туран",
-                "building": "41/1",
-                "lat": 51.126194,
-                "lng": 71.401099,
-                "description": null,
-                "raw": "Астана, проспект Туран, 41/1",
-                "metro": null,
-                "metro_stations": [],
-                "id": "5849193"
-            },
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2026-01-14T12:19:12+0300",
-            "created_at": "2026-01-14T12:19:12+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129413399",
-            "show_logo_in_search": null,
-            "show_contacts": false,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/129413399?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/129413399",
-            "relations": [],
-            "employer": {
-                "id": "5111532",
-                "name": "SELFIE-TRAVEL (СЕЛФИ-ТРЕВЕЛ)",
-                "url": "https://api.hh.ru/employers/5111532?locale=EN",
-                "alternate_url": "https://hh.ru/employer/5111532",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/1446854.png",
-                    "90": "https://img.hhcdn.ru/employer-logo/7407040.png",
-                    "240": "https://img.hhcdn.ru/employer-logo/7407041.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5111532&locale=EN",
-                "country_id": 3,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Аналитический склад ума. Продвинутый пользователь ПК ( навык и опыт работы в Excel,сводные таблицы, обработка больших массивов и т.д.). ",
-                "responsibility": "Обработка файлов Excel в корпоративный формат. Анализ, сверка и корректировка изменения цен. Работа с базами данных. Установка цен на сайте. "
             },
             "contacts": null,
             "schedule": {
@@ -1752,142 +3741,6 @@
             "experience": {
                 "id": "between3And6",
                 "name": "Between 3 and 6 years"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "129143366",
-            "premium": false,
-            "name": "Аналитик данных",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "160",
-                "name": "Almaty",
-                "url": "https://api.hh.ru/areas/160?locale=EN"
-            },
-            "salary": {
-                "from": 300000,
-                "to": 500000,
-                "currency": "KZT",
-                "gross": false
-            },
-            "salary_range": {
-                "from": 300000,
-                "to": 500000,
-                "currency": "KZT",
-                "gross": false,
-                "mode": {
-                    "id": "MONTH",
-                    "name": "Per month"
-                },
-                "frequency": {
-                    "id": "MONTHLY",
-                    "name": "Once a month"
-                }
-            },
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": {
-                "city": "Алматы",
-                "street": "улица Климента Тимирязева",
-                "building": "38/1",
-                "lat": 43.225694,
-                "lng": 76.908886,
-                "description": null,
-                "raw": "Алматы, улица Климента Тимирязева, 38/1",
-                "metro": null,
-                "metro_stations": [],
-                "id": "19781372"
-            },
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2026-01-13T13:08:56+0300",
-            "created_at": "2026-01-13T13:08:56+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129143366",
-            "show_logo_in_search": null,
-            "show_contacts": true,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/129143366?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/129143366",
-            "relations": [],
-            "employer": {
-                "id": "1273490",
-                "name": "Мнацаканьян (ТМ GA-DE и NINELLE)",
-                "url": "https://api.hh.ru/employers/1273490?locale=EN",
-                "alternate_url": "https://hh.ru/employer/1273490",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/1437744.png",
-                    "90": "https://img.hhcdn.ru/employer-logo/7370608.png",
-                    "240": "https://img.hhcdn.ru/employer-logo/7370609.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1273490&locale=EN",
-                "country_id": 3,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Высшее образование. Умение интерпретировать сложные массивы данных и доносить выводы простым языком. Навыки визуализации данных (графики, дашборды, отчёты). ",
-                "responsibility": "Сбор и обработка данных по продажам, рекламным кампаниям, промо-активностям. Анализ всей линейки продуктов компании и их продаж. "
-            },
-            "contacts": {
-                "name": null,
-                "email": null,
-                "phones": []
-            },
-            "schedule": {
-                "id": "fullDay",
-                "name": "Full day"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [
-                {
-                    "id": "ON_SITE",
-                    "name": "At the employer's location"
-                }
-            ],
-            "working_hours": [
-                {
-                    "id": "HOURS_8",
-                    "name": "8 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "156",
-                    "name": "BI analyst, data analyst"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between1And3",
-                "name": "Between 1 and 3 years"
             },
             "employment": {
                 "id": "full",
@@ -4054,152 +5907,6 @@
             "adv_context": null
         },
         {
-            "id": "129205813",
-            "premium": false,
-            "name": "Business/Systems Analyst (Middle)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "160",
-                "name": "Almaty",
-                "url": "https://api.hh.ru/areas/160?locale=EN"
-            },
-            "salary": null,
-            "salary_range": null,
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": {
-                "city": "Алматы",
-                "street": "проспект Жибек Жолы",
-                "building": "135",
-                "lat": 43.26138,
-                "lng": 76.929242,
-                "description": null,
-                "raw": "Алматы, проспект Жибек Жолы, 135",
-                "metro": {
-                    "station_name": "Almaly",
-                    "line_name": "Pervaya",
-                    "station_id": "64.432",
-                    "line_id": "64",
-                    "lat": 43.251295,
-                    "lng": 76.945456
-                },
-                "metro_stations": [
-                    {
-                        "station_name": "Almaly",
-                        "line_name": "Pervaya",
-                        "station_id": "64.432",
-                        "line_id": "64",
-                        "lat": 43.251295,
-                        "lng": 76.945456
-                    },
-                    {
-                        "station_name": "Raiymbek Batyr",
-                        "line_name": "Pervaya",
-                        "station_id": "64.430",
-                        "line_id": "64",
-                        "lat": 43.271201,
-                        "lng": 76.9448
-                    },
-                    {
-                        "station_name": "Zhibek Zholy",
-                        "line_name": "Pervaya",
-                        "station_id": "64.431",
-                        "line_id": "64",
-                        "lat": 43.260199,
-                        "lng": 76.946103
-                    }
-                ],
-                "id": "17385883"
-            },
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2026-01-12T13:12:08+0300",
-            "created_at": "2026-01-12T13:12:08+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129205813",
-            "show_logo_in_search": null,
-            "show_contacts": false,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/129205813?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/129205813",
-            "relations": [],
-            "employer": {
-                "id": "11721581",
-                "name": "Частная компания Solva Technology Ltd.",
-                "url": "https://api.hh.ru/employers/11721581?locale=EN",
-                "alternate_url": "https://hh.ru/employer/11721581",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original-round/7127921.png",
-                    "90": "https://img.hhcdn.ru/employer-logo-round/7127922.png",
-                    "240": "https://img.hhcdn.ru/employer-logo-round/7127923.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11721581&locale=EN",
-                "country_id": 3,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "От 3-х лет опыта в роли аналитика в IT и/или Финансовой сфере. Знание техник сбора, анализа, формализации требований...",
-                "responsibility": "Работа в составе сильной группы бизнес/системных аналитиков на международном финтех продукте в области онлайн-кредитования. Развитие как в бизнес..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Full day"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [
-                {
-                    "id": "HYBRID",
-                    "name": "Hybrid"
-                }
-            ],
-            "working_hours": [
-                {
-                    "id": "HOURS_8",
-                    "name": "8 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "156",
-                    "name": "BI analyst, data analyst"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between3And6",
-                "name": "Between 3 and 6 years"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
             "id": "129290559",
             "premium": false,
             "name": "Senior Data Analyst",
@@ -4577,136 +6284,6 @@
             "adv_context": null
         },
         {
-            "id": "128941450",
-            "premium": false,
-            "name": "Project Manager (Фармацевтика)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": true,
-            "area": {
-                "id": "160",
-                "name": "Almaty",
-                "url": "https://api.hh.ru/areas/160?locale=EN"
-            },
-            "salary": null,
-            "salary_range": null,
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": {
-                "city": "Алматы",
-                "street": "микрорайон Самал-2",
-                "building": "97",
-                "lat": 43.233505,
-                "lng": 76.954376,
-                "description": null,
-                "raw": "Алматы, микрорайон Самал-2, 97",
-                "metro": {
-                    "station_name": "Abay",
-                    "line_name": "Pervaya",
-                    "station_id": "64.433",
-                    "line_id": "64",
-                    "lat": 43.242548,
-                    "lng": 76.949588
-                },
-                "metro_stations": [
-                    {
-                        "station_name": "Abay",
-                        "line_name": "Pervaya",
-                        "station_id": "64.433",
-                        "line_id": "64",
-                        "lat": 43.242548,
-                        "lng": 76.949588
-                    }
-                ],
-                "id": "20854466"
-            },
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2026-01-12T10:41:35+0300",
-            "created_at": "2026-01-12T10:41:35+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=128941450",
-            "show_logo_in_search": null,
-            "show_contacts": false,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/128941450?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/128941450",
-            "relations": [],
-            "employer": {
-                "id": "4517249",
-                "name": "SaaPharma",
-                "url": "https://api.hh.ru/employers/4517249?locale=EN",
-                "alternate_url": "https://hh.ru/employer/4517249",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original-round/7127869.png",
-                    "90": "https://img.hhcdn.ru/employer-logo-round/7127870.png",
-                    "240": "https://img.hhcdn.ru/employer-logo-round/7127871.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4517249&locale=EN",
-                "country_id": 3,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Мы ищем опытного Project Manager с опытом работы в фармацевтической, биотехнологической или медицинской сфере. Требуемые навыки. Обязательный опыт работы в...",
-                "responsibility": "Планирование проектов и разработка детальных проектных планов (сроки, бюджет, ресурсы, этапы). Координация участников проекта, включая внешних подрядчиков и партнёров. "
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Full day"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [
-                {
-                    "id": "ON_SITE",
-                    "name": "At the employer's location"
-                }
-            ],
-            "working_hours": [
-                {
-                    "id": "HOURS_8",
-                    "name": "8 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "164",
-                    "name": "Product analyst"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between3And6",
-                "name": "Between 3 and 6 years"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
             "id": "128946389",
             "premium": false,
             "name": "Аналитик данных",
@@ -4923,142 +6500,6 @@
             "experience": {
                 "id": "between1And3",
                 "name": "Between 1 and 3 years"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "129271894",
-            "premium": false,
-            "name": "Аналитик данных (по закупкам)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "159",
-                "name": "Astana",
-                "url": "https://api.hh.ru/areas/159?locale=EN"
-            },
-            "salary": {
-                "from": 600000,
-                "to": 800000,
-                "currency": "KZT",
-                "gross": false
-            },
-            "salary_range": {
-                "from": 600000,
-                "to": 800000,
-                "currency": "KZT",
-                "gross": false,
-                "mode": {
-                    "id": "MONTH",
-                    "name": "Per month"
-                },
-                "frequency": {
-                    "id": "TWICE_PER_MONTH",
-                    "name": "Twice a month"
-                }
-            },
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": {
-                "city": "Астана",
-                "street": "улица Динмухамеда Кунаева",
-                "building": "29/1",
-                "lat": 51.131468,
-                "lng": 71.42901,
-                "description": null,
-                "raw": "Астана, улица Динмухамеда Кунаева, 29/1",
-                "metro": null,
-                "metro_stations": [],
-                "id": "19334870"
-            },
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2026-01-12T10:09:06+0300",
-            "created_at": "2026-01-12T10:09:06+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129271894",
-            "show_logo_in_search": null,
-            "show_contacts": true,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/129271894?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/129271894",
-            "relations": [],
-            "employer": {
-                "id": "1136228",
-                "name": "Группа компаний SILLAN",
-                "url": "https://api.hh.ru/employers/1136228?locale=EN",
-                "alternate_url": "https://hh.ru/employer/1136228",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original-round/2360699.png",
-                    "90": "https://img.hhcdn.ru/employer-logo-round/2360700.png",
-                    "240": "https://img.hhcdn.ru/employer-logo-round/2360701.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1136228&locale=EN",
-                "country_id": 3,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Опыт работы в аналитике закупок, продаж или e-commerce от 3 лет. Знание Bitrix24 и 1С на уровне...",
-                "responsibility": "Анализировать данные из Bitrix24 и 1С (продажи, остатки, закупки). Отслеживать, какие товары активно продаются онлайн, а какие зависают. "
-            },
-            "contacts": {
-                "name": null,
-                "email": null,
-                "phones": []
-            },
-            "schedule": {
-                "id": "fullDay",
-                "name": "Full day"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [
-                {
-                    "id": "HYBRID",
-                    "name": "Hybrid"
-                }
-            ],
-            "working_hours": [
-                {
-                    "id": "HOURS_8",
-                    "name": "8 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "156",
-                    "name": "BI analyst, data analyst"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between3And6",
-                "name": "Between 3 and 6 years"
             },
             "employment": {
                 "id": "full",
@@ -5305,313 +6746,6 @@
             "experience": {
                 "id": "between3And6",
                 "name": "Between 3 and 6 years"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "129266971",
-            "premium": false,
-            "name": "HR-аналитик",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": true,
-            "area": {
-                "id": "160",
-                "name": "Almaty",
-                "url": "https://api.hh.ru/areas/160?locale=EN"
-            },
-            "salary": null,
-            "salary_range": null,
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": {
-                "city": "Алматы",
-                "street": "улица Жусупбека Елебекова",
-                "building": "10",
-                "lat": 43.228407,
-                "lng": 76.963476,
-                "description": null,
-                "raw": "Алматы, улица Жусупбека Елебекова, 10",
-                "metro": {
-                    "station_name": "Abay",
-                    "line_name": "Pervaya",
-                    "station_id": "64.433",
-                    "line_id": "64",
-                    "lat": 43.242548,
-                    "lng": 76.949588
-                },
-                "metro_stations": [
-                    {
-                        "station_name": "Abay",
-                        "line_name": "Pervaya",
-                        "station_id": "64.433",
-                        "line_id": "64",
-                        "lat": 43.242548,
-                        "lng": 76.949588
-                    },
-                    {
-                        "station_name": "Almaly",
-                        "line_name": "Pervaya",
-                        "station_id": "64.432",
-                        "line_id": "64",
-                        "lat": 43.251295,
-                        "lng": 76.945456
-                    },
-                    {
-                        "station_name": "Baikonur",
-                        "line_name": "Pervaya",
-                        "station_id": "64.434",
-                        "line_id": "64",
-                        "lat": 43.240401,
-                        "lng": 76.927696
-                    },
-                    {
-                        "station_name": "Zhibek Zholy",
-                        "line_name": "Pervaya",
-                        "station_id": "64.431",
-                        "line_id": "64",
-                        "lat": 43.260199,
-                        "lng": 76.946103
-                    }
-                ],
-                "id": "19658624"
-            },
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2026-01-12T09:24:10+0300",
-            "created_at": "2026-01-12T09:24:10+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129266971",
-            "branding": {
-                "type": "MAKEUP",
-                "tariff": null
-            },
-            "show_logo_in_search": true,
-            "show_contacts": false,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/129266971?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/129266971",
-            "relations": [],
-            "employer": {
-                "id": "241598",
-                "name": "АК Алтыналмас",
-                "url": "https://api.hh.ru/employers/241598?locale=EN",
-                "alternate_url": "https://hh.ru/employer/241598",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original-round/3161255.jpeg",
-                    "90": "https://img.hhcdn.ru/employer-logo-round/3161256.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo-round/3161257.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=241598&locale=EN",
-                "country_id": 3,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Знание инструментов бизнес-аналитики (Power BI (обязательно), Tableau/ Qlik Sense). Навыки написания SQL запросов (предпочтительно). Опыт реализации проектов по автоматизации...",
-                "responsibility": "Разработка и поддержка Power BI Dashboard по HR-отчетности (численность, фонд оплаты труда, компенсационные выплаты и социальные расходы) из различных..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Full day"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [],
-            "working_hours": [
-                {
-                    "id": "HOURS_8",
-                    "name": "8 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "156",
-                    "name": "BI analyst, data analyst"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between1And3",
-                "name": "Between 1 and 3 years"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "128902704",
-            "premium": false,
-            "name": "Продуктовый аналитик",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "160",
-                "name": "Almaty",
-                "url": "https://api.hh.ru/areas/160?locale=EN"
-            },
-            "salary": null,
-            "salary_range": null,
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": {
-                "city": "Алматы",
-                "street": "проспект Достык",
-                "building": "97А",
-                "lat": 43.229741,
-                "lng": 76.958311,
-                "description": null,
-                "raw": "Алматы, проспект Достык, 97А",
-                "metro": {
-                    "station_name": "Abay",
-                    "line_name": "Pervaya",
-                    "station_id": "64.433",
-                    "line_id": "64",
-                    "lat": 43.242548,
-                    "lng": 76.949588
-                },
-                "metro_stations": [
-                    {
-                        "station_name": "Abay",
-                        "line_name": "Pervaya",
-                        "station_id": "64.433",
-                        "line_id": "64",
-                        "lat": 43.242548,
-                        "lng": 76.949588
-                    },
-                    {
-                        "station_name": "Almaly",
-                        "line_name": "Pervaya",
-                        "station_id": "64.432",
-                        "line_id": "64",
-                        "lat": 43.251295,
-                        "lng": 76.945456
-                    },
-                    {
-                        "station_name": "Auezov Theater",
-                        "line_name": "Pervaya",
-                        "station_id": "64.435",
-                        "line_id": "64",
-                        "lat": 43.240362,
-                        "lng": 76.917519
-                    },
-                    {
-                        "station_name": "Baikonur",
-                        "line_name": "Pervaya",
-                        "station_id": "64.434",
-                        "line_id": "64",
-                        "lat": 43.240401,
-                        "lng": 76.927696
-                    }
-                ],
-                "id": "18326696"
-            },
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2026-01-12T08:44:40+0300",
-            "created_at": "2026-01-12T08:44:40+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=128902704",
-            "show_logo_in_search": null,
-            "show_contacts": false,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/128902704?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/128902704",
-            "relations": [],
-            "employer": {
-                "id": "10828629",
-                "name": "Freedom Media",
-                "url": "https://api.hh.ru/employers/10828629?locale=EN",
-                "alternate_url": "https://hh.ru/employer/10828629",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original-round/6796241.png",
-                    "90": "https://img.hhcdn.ru/employer-logo-round/6796242.png",
-                    "240": "https://img.hhcdn.ru/employer-logo-round/6796243.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10828629&locale=EN",
-                "country_id": 3,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Что нужно от тебя: Опыт работы с event-based системами аналитики (Amplitude, AppsFlyer, Firebase Analytics, PowerBI и др.). ",
-                "responsibility": "Помочь бизнесу принимать решения на основе анализа данных (точных цифр). Прогнозирование различных параметров с учетом имеющихся данных. Выявлять проблемы, возникающие..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Full day"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [
-                {
-                    "id": "ON_SITE",
-                    "name": "At the employer's location"
-                }
-            ],
-            "working_hours": [
-                {
-                    "id": "HOURS_8",
-                    "name": "8 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "164",
-                    "name": "Product analyst"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between1And3",
-                "name": "Between 1 and 3 years"
             },
             "employment": {
                 "id": "full",
@@ -6191,347 +7325,6 @@
             "experience": {
                 "id": "between3And6",
                 "name": "Between 3 and 6 years"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "128931901",
-            "premium": false,
-            "name": "Azure Data Architect",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "160",
-                "name": "Almaty",
-                "url": "https://api.hh.ru/areas/160?locale=EN"
-            },
-            "salary": null,
-            "salary_range": null,
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2026-01-12T00:54:48+0300",
-            "created_at": "2026-01-12T00:54:48+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=128931901",
-            "show_logo_in_search": null,
-            "show_contacts": true,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/128931901?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/128931901",
-            "relations": [],
-            "employer": {
-                "id": "850334",
-                "name": "ОнТаргет ЛАБС",
-                "url": "https://api.hh.ru/employers/850334?locale=EN",
-                "alternate_url": "https://hh.ru/employer/850334",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original-round/567637.jpeg",
-                    "90": "https://img.hhcdn.ru/employer-logo-round/567638.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo-round/567639.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=850334&locale=EN",
-                "country_id": 1,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "5+ years of hands-on experience as a data architect or senior data engineer in Azure environments. ",
-                "responsibility": "Architecture & Technical Leadership. Design and implement scalable, high-performance data architectures on Azure Databricks and Microsoft Fabric. Lead end-to..."
-            },
-            "contacts": {
-                "name": null,
-                "email": null,
-                "phones": []
-            },
-            "schedule": {
-                "id": "remote",
-                "name": "Remote working"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [
-                {
-                    "id": "REMOTE",
-                    "name": "Remotely"
-                }
-            ],
-            "working_hours": [
-                {
-                    "id": "HOURS_8",
-                    "name": "8 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "156",
-                    "name": "BI analyst, data analyst"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "moreThan6",
-                "name": "More than 6 years"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "129226927",
-            "premium": false,
-            "name": "Data Scientist",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "160",
-                "name": "Almaty",
-                "url": "https://api.hh.ru/areas/160?locale=EN"
-            },
-            "salary": {
-                "from": 4000,
-                "to": 5000,
-                "currency": "USD",
-                "gross": true
-            },
-            "salary_range": {
-                "from": 4000,
-                "to": 5000,
-                "currency": "USD",
-                "gross": true,
-                "mode": {
-                    "id": "MONTH",
-                    "name": "Per month"
-                },
-                "frequency": {
-                    "id": "MONTHLY",
-                    "name": "Once a month"
-                }
-            },
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2026-01-11T17:13:36+0300",
-            "created_at": "2026-01-11T17:13:36+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129226927",
-            "show_logo_in_search": null,
-            "show_contacts": false,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/129226927?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/129226927",
-            "relations": [],
-            "employer": {
-                "id": "250",
-                "name": "COMTEK Inc.",
-                "url": "https://api.hh.ru/employers/250?locale=EN",
-                "alternate_url": "https://hh.ru/employer/250",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original-round/2291211.png",
-                    "90": "https://img.hhcdn.ru/employer-logo-round/2291212.png",
-                    "240": "https://img.hhcdn.ru/employer-logo-round/2291213.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=250&locale=EN",
-                "country_id": 1,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "5 лет опыта кодирования на Python. - 5 лет работы с ML. - 5 лет SQL. - Dashboarding. - Минимум 1 год опыта работы...",
-                "responsibility": "Развертывания моделей машинного обучения."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Full day"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [],
-            "working_hours": [
-                {
-                    "id": "HOURS_8",
-                    "name": "8 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "165",
-                    "name": "Data scientist"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "moreThan6",
-                "name": "More than 6 years"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "129196709",
-            "premium": false,
-            "name": "Менеджер по анализу данных",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "160",
-                "name": "Almaty",
-                "url": "https://api.hh.ru/areas/160?locale=EN"
-            },
-            "salary": null,
-            "salary_range": null,
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": {
-                "city": "Алматы",
-                "street": "улица Майлина",
-                "building": "230",
-                "lat": 43.328997,
-                "lng": 76.981173,
-                "description": null,
-                "raw": "Алматы, улица Майлина, 230",
-                "metro": null,
-                "metro_stations": [],
-                "id": "6867786"
-            },
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2026-01-11T14:38:22+0300",
-            "created_at": "2026-01-11T14:38:22+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=129196709",
-            "show_logo_in_search": null,
-            "show_contacts": true,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/129196709?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/129196709",
-            "relations": [],
-            "employer": {
-                "id": "967285",
-                "name": "Футбольный клуб Кайрат",
-                "url": "https://api.hh.ru/employers/967285?locale=EN",
-                "alternate_url": "https://hh.ru/employer/967285",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original-round/6297277.jpeg",
-                    "90": "https://img.hhcdn.ru/employer-logo-round/6297278.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo-round/6297279.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=967285&locale=EN",
-                "country_id": 3,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Высшее образование (аналитика, экономика, математика, статистика, IT). Опыт работы в аналитике данных от 2–3 лет. Опыт работы в спортивной...",
-                "responsibility": "Анализ спортивных показателей игроков и команд (игровая статистика, нагрузка, эффективность). Подготовка аналитических отчетов и дашбордов для руководства клуба и тренерского..."
-            },
-            "contacts": {
-                "name": null,
-                "email": null,
-                "phones": []
-            },
-            "schedule": {
-                "id": "fullDay",
-                "name": "Full day"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [
-                {
-                    "id": "ON_SITE",
-                    "name": "At the employer's location"
-                }
-            ],
-            "working_hours": [
-                {
-                    "id": "HOURS_8",
-                    "name": "8 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "SIX_ON_ONE_OFF",
-                    "name": "6/1"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "156",
-                    "name": "BI analyst, data analyst"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between1And3",
-                "name": "Between 1 and 3 years"
             },
             "employment": {
                 "id": "full",
@@ -19430,113 +20223,6 @@
             "adv_context": null
         },
         {
-            "id": "128913896",
-            "premium": false,
-            "name": "Data Engineer (BI/Power BI)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "160",
-                "name": "Almaty",
-                "url": "https://api.hh.ru/areas/160?locale=EN"
-            },
-            "salary": null,
-            "salary_range": null,
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2025-12-19T13:46:27+0300",
-            "created_at": "2025-12-19T13:46:27+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=128913896",
-            "branding": {
-                "type": "MAKEUP",
-                "tariff": null
-            },
-            "show_logo_in_search": true,
-            "show_contacts": false,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/128913896?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/128913896",
-            "relations": [],
-            "employer": {
-                "id": "146547",
-                "name": "Alatau City Bank",
-                "url": "https://api.hh.ru/employers/146547?locale=EN",
-                "alternate_url": "https://hh.ru/employer/146547",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/1431815.png",
-                    "90": "https://img.hhcdn.ru/employer-logo/7346909.png",
-                    "240": "https://img.hhcdn.ru/employer-logo/7346910.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=146547&locale=EN",
-                "country_id": 3,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Опыт работы с SQL от 2 лет (написание сложных запросов, оконные функции, оптимизация). Опыт построения витрин данных. Знания методов индексации...",
-                "responsibility": "Подготовка данных по запросам бизнес-подразделений, формирование аналитических отчетов. Разработка и сопровождение регламентных процедур обработки данных. Разработка, обновление и автоматизация..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Full day"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [
-                {
-                    "id": "ON_SITE",
-                    "name": "At the employer's location"
-                }
-            ],
-            "working_hours": [
-                {
-                    "id": "HOURS_8",
-                    "name": "8 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "165",
-                    "name": "Data scientist"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between3And6",
-                "name": "Between 3 and 6 years"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
             "id": "128879054",
             "premium": false,
             "name": "Data Scientist (Big Data)",
@@ -21591,355 +22277,6 @@
             "adv_context": null
         },
         {
-            "id": "128757540",
-            "premium": false,
-            "name": "RPA разработчик",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "160",
-                "name": "Almaty",
-                "url": "https://api.hh.ru/areas/160?locale=EN"
-            },
-            "salary": null,
-            "salary_range": null,
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2025-12-15T16:02:43+0300",
-            "created_at": "2025-12-15T16:02:43+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=128757540",
-            "branding": {
-                "type": "MAKEUP",
-                "tariff": null
-            },
-            "show_logo_in_search": true,
-            "show_contacts": false,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/128757540?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/128757540",
-            "relations": [],
-            "employer": {
-                "id": "49971",
-                "name": "Home Credit Bank (ДБ АО «ForteBank»)",
-                "url": "https://api.hh.ru/employers/49971?locale=EN",
-                "alternate_url": "https://hh.ru/employer/49971",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original-round/2442492.png",
-                    "90": "https://img.hhcdn.ru/employer-logo-round/2442493.png",
-                    "240": "https://img.hhcdn.ru/employer-logo-round/2442494.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=49971&locale=EN",
-                "country_id": 3,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Уверенные знания Python и опыт роботизации бизнес-процессов. Глубокие знания SQL / PL/SQL (оптимизация, хранимые процедуры, безопасность). Опыт работы с...",
-                "responsibility": "Разработка и поддержка роботов для автоматизации бизнес-процессов. Создание и поддержка скриптов на Python для роботизации процессов. Работа с базами..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Full day"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [
-                {
-                    "id": "ON_SITE",
-                    "name": "At the employer's location"
-                }
-            ],
-            "working_hours": [
-                {
-                    "id": "HOURS_8",
-                    "name": "8 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "156",
-                    "name": "BI analyst, data analyst"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between1And3",
-                "name": "Between 1 and 3 years"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "128755853",
-            "premium": false,
-            "name": "Старший эксперт в Направление развития портфеля",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "160",
-                "name": "Almaty",
-                "url": "https://api.hh.ru/areas/160?locale=EN"
-            },
-            "salary": null,
-            "salary_range": null,
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": {
-                "city": "Алматы",
-                "street": "проспект Назарбаева",
-                "building": "226",
-                "lat": 43.233104,
-                "lng": 76.951098,
-                "description": null,
-                "raw": "Алматы, проспект Назарбаева, 226",
-                "metro": {
-                    "station_name": "Abay",
-                    "line_name": "Pervaya",
-                    "station_id": "64.433",
-                    "line_id": "64",
-                    "lat": 43.242548,
-                    "lng": 76.949588
-                },
-                "metro_stations": [
-                    {
-                        "station_name": "Abay",
-                        "line_name": "Pervaya",
-                        "station_id": "64.433",
-                        "line_id": "64",
-                        "lat": 43.242548,
-                        "lng": 76.949588
-                    },
-                    {
-                        "station_name": "Almaly",
-                        "line_name": "Pervaya",
-                        "station_id": "64.432",
-                        "line_id": "64",
-                        "lat": 43.251295,
-                        "lng": 76.945456
-                    }
-                ],
-                "id": "11124815"
-            },
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2025-12-15T15:24:53+0300",
-            "created_at": "2025-12-15T15:24:53+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=128755853",
-            "branding": {
-                "type": "MAKEUP",
-                "tariff": null
-            },
-            "show_logo_in_search": true,
-            "show_contacts": false,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/128755853?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/128755853",
-            "relations": [],
-            "employer": {
-                "id": "123401",
-                "name": "Банк ЦентрКредит",
-                "url": "https://api.hh.ru/employers/123401?locale=EN",
-                "alternate_url": "https://hh.ru/employer/123401",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original-round/4047922.png",
-                    "90": "https://img.hhcdn.ru/employer-logo-round/4047923.png",
-                    "240": "https://img.hhcdn.ru/employer-logo-round/4047924.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=123401&locale=EN",
-                "country_id": 3,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Критическое мышление, проактивность и ответственность. Продвинутое знание Python, SQL, опыт оптимизации запросов. Навыки работы с большими данными, включая сбор, очистку...",
-                "responsibility": "Исследовать клиентскую базу, искать инсайты и точки роста. Запускать эксперименты, выдвигать и проверять гипотезы для роста бизнес-показателей подразделения. "
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Full day"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [],
-            "working_hours": [
-                {
-                    "id": "HOURS_9",
-                    "name": "9 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "164",
-                    "name": "Product analyst"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "noExperience",
-                "name": "No experience"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "128754837",
-            "premium": false,
-            "name": "Middle Data Engineer",
-            "department": {
-                "id": "111304-111304-it",
-                "name": "Мобайл Телеком-Сервис (Объединенная Компания Tele2/Altel) | IT"
-            },
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "160",
-                "name": "Almaty",
-                "url": "https://api.hh.ru/areas/160?locale=EN"
-            },
-            "salary": null,
-            "salary_range": null,
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2025-12-15T15:02:10+0300",
-            "created_at": "2025-12-15T15:02:10+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=128754837",
-            "branding": {
-                "type": "MAKEUP",
-                "tariff": null
-            },
-            "show_logo_in_search": true,
-            "show_contacts": false,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/128754837?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/128754837",
-            "relations": [],
-            "employer": {
-                "id": "111304",
-                "name": "Tele2/Altel",
-                "url": "https://api.hh.ru/employers/111304?locale=EN",
-                "alternate_url": "https://hh.ru/employer/111304",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original-round/6209448.png",
-                    "90": "https://img.hhcdn.ru/employer-logo-round/6209449.png",
-                    "240": "https://img.hhcdn.ru/employer-logo-round/6209450.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=111304&locale=EN",
-                "country_id": 3,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Опыт работы от 3 лет на позиции Data Engineer. Высшее образование в области компьютерных наук, инженерии или смежных дисциплин. ",
-                "responsibility": "Работать с источниками данных, настраивать ETL-процессы, интегрировать новые источники данных. Чистить данные, удалять ошибки и аномалий, подготавливать данные для..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Full day"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [],
-            "working_hours": [
-                {
-                    "id": "HOURS_8",
-                    "name": "8 hours"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "165",
-                    "name": "Data scientist"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between3And6",
-                "name": "Between 3 and 6 years"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Full time"
-            },
-            "employment_form": {
-                "id": "FULL",
-                "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
             "id": "128680679",
             "premium": false,
             "name": "Аналитик по разработке и поддержке отчетов Power BI",
@@ -22040,109 +22377,6 @@
             "employment_form": {
                 "id": "FULL",
                 "name": "Full-time"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "128499485",
-            "premium": false,
-            "name": "BI Developer / Data Analyst (Grafana + SQL)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "160",
-                "name": "Almaty",
-                "url": "https://api.hh.ru/areas/160?locale=EN"
-            },
-            "salary": null,
-            "salary_range": null,
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2025-12-06T13:42:55+0300",
-            "created_at": "2025-12-06T13:42:55+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=128499485",
-            "show_logo_in_search": null,
-            "show_contacts": false,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/128499485?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/128499485",
-            "relations": [],
-            "employer": {
-                "id": "11339697",
-                "name": "Томашева Наталья Борисовна",
-                "url": "https://api.hh.ru/employers/11339697?locale=EN",
-                "alternate_url": "https://hh.ru/employer/11339697",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/1450267.png",
-                    "90": "https://img.hhcdn.ru/employer-logo/7420689.png",
-                    "240": "https://img.hhcdn.ru/employer-logo/7420690.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11339697&locale=EN",
-                "country_id": 1,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "4. Взаимодействие: Работа в связке с Backend-разработчиками и исполнительным директором для понимания бизнес-логики метрик. Требования (Hard Skills): Grafana...",
-                "responsibility": "Построение Дашбордов: Разработка и поддержка интерактивных дашбордов в Grafana для разных департаментов: Для Собственников: P&L в реальном времени, Cash..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "remote",
-                "name": "Remote working"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [
-                {
-                    "id": "REMOTE",
-                    "name": "Remotely"
-                }
-            ],
-            "working_hours": [
-                {
-                    "id": "FLEXIBLE",
-                    "name": "Negotiated"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "156",
-                    "name": "BI analyst, data analyst"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between3And6",
-                "name": "Between 3 and 6 years"
-            },
-            "employment": {
-                "id": "project",
-                "name": "Project work"
-            },
-            "employment_form": {
-                "id": "PROJECT",
-                "name": "Project or one-time task"
             },
             "internship": false,
             "adv_response_url": null,
@@ -22802,109 +23036,6 @@
             "adv_response_url": null,
             "is_adv_vacancy": false,
             "adv_context": null
-        },
-        {
-            "id": "128499488",
-            "premium": false,
-            "name": "BI Developer / Data Analyst (Grafana + SQL)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "159",
-                "name": "Astana",
-                "url": "https://api.hh.ru/areas/159?locale=EN"
-            },
-            "salary": null,
-            "salary_range": null,
-            "type": {
-                "id": "open",
-                "name": "Open"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2025-12-06T13:42:55+0300",
-            "created_at": "2025-12-06T13:42:55+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=128499488",
-            "show_logo_in_search": null,
-            "show_contacts": false,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/128499488?locale=EN&host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/128499488",
-            "relations": [],
-            "employer": {
-                "id": "11339697",
-                "name": "Томашева Наталья Борисовна",
-                "url": "https://api.hh.ru/employers/11339697?locale=EN",
-                "alternate_url": "https://hh.ru/employer/11339697",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/1450267.png",
-                    "90": "https://img.hhcdn.ru/employer-logo/7420689.png",
-                    "240": "https://img.hhcdn.ru/employer-logo/7420690.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11339697&locale=EN",
-                "country_id": 1,
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "4. Взаимодействие: Работа в связке с Backend-разработчиками и исполнительным директором для понимания бизнес-логики метрик. Требования (Hard Skills): Grafana...",
-                "responsibility": "Построение Дашбордов: Разработка и поддержка интерактивных дашбордов в Grafana для разных департаментов: Для Собственников: P&L в реальном времени, Cash..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "remote",
-                "name": "Remote working"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "fly_in_fly_out_duration": [],
-            "work_format": [
-                {
-                    "id": "REMOTE",
-                    "name": "Remotely"
-                }
-            ],
-            "working_hours": [
-                {
-                    "id": "FLEXIBLE",
-                    "name": "Negotiated"
-                }
-            ],
-            "work_schedule_by_days": [
-                {
-                    "id": "FIVE_ON_TWO_OFF",
-                    "name": "5/2"
-                }
-            ],
-            "night_shifts": false,
-            "professional_roles": [
-                {
-                    "id": "156",
-                    "name": "BI analyst, data analyst"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between3And6",
-                "name": "Between 3 and 6 years"
-            },
-            "employment": {
-                "id": "project",
-                "name": "Project work"
-            },
-            "employment_form": {
-                "id": "PROJECT",
-                "name": "Project or one-time task"
-            },
-            "internship": false,
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
         }
     ],
     "found": 183,
@@ -22919,17 +23050,22 @@
                 {
                     "name": "Almaty",
                     "url": "https://api.hh.ru/vacancies?clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&area=160&locale=EN",
-                    "count": 140
+                    "count": 138
                 },
                 {
                     "name": "Astana",
                     "url": "https://api.hh.ru/vacancies?clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&area=159&locale=EN",
-                    "count": 39
+                    "count": 40
                 },
                 {
                     "name": "Atyrau",
                     "url": "https://api.hh.ru/vacancies?clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&area=153&locale=EN",
                     "count": 2
+                },
+                {
+                    "name": "Kostanay",
+                    "url": "https://api.hh.ru/vacancies?clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&area=172&locale=EN",
+                    "count": 1
                 },
                 {
                     "name": "Temirtau",
@@ -22955,32 +23091,32 @@
                 {
                     "name": "Specified",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&only_with_salary=true&locale=EN",
-                    "count": 30
+                    "count": 32
                 },
                 {
                     "name": "from 35000 ₽",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&only_with_salary=true&salary=35000&locale=EN",
-                    "count": 30
+                    "count": 32
                 },
                 {
-                    "name": "from 105000 ₽",
-                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&only_with_salary=true&salary=105000&locale=EN",
-                    "count": 13
+                    "name": "from 95000 ₽",
+                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&only_with_salary=true&salary=95000&locale=EN",
+                    "count": 17
                 },
                 {
-                    "name": "from 180000 ₽",
-                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&only_with_salary=true&salary=180000&locale=EN",
-                    "count": 7
+                    "name": "from 155000 ₽",
+                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&only_with_salary=true&salary=155000&locale=EN",
+                    "count": 9
                 },
                 {
-                    "name": "from 320000 ₽",
-                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&only_with_salary=true&salary=320000&locale=EN",
+                    "name": "from 215000 ₽",
+                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&only_with_salary=true&salary=215000&locale=EN",
+                    "count": 4
+                },
+                {
+                    "name": "from 330000 ₽",
+                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&only_with_salary=true&salary=330000&locale=EN",
                     "count": 3
-                },
-                {
-                    "name": "from 390000 ₽",
-                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&only_with_salary=true&salary=390000&locale=EN",
-                    "count": 2
                 }
             ]
         },
@@ -22991,36 +23127,36 @@
                 {
                     "name": "Financial Sector",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&industry=43&locale=EN",
-                    "count": 57
+                    "count": 55
                 },
                 {
                     "name": "IT, System Integration, Internet",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&industry=7&locale=EN",
-                    "count": 50
+                    "count": 53
                 },
                 {
                     "name": "Business Services",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&industry=44&locale=EN",
-                    "count": 25
+                    "count": 24
                 },
                 {
                     "name": "Retail",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&industry=41&locale=EN",
-                    "count": 20
+                    "count": 19
                 },
                 {
                     "name": "Telecommunications, Communications",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&industry=9&locale=EN",
-                    "count": 16
-                },
-                {
-                    "name": "Media, Marketing, Advertising, PR, Design, Production",
-                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&industry=11&locale=EN",
-                    "count": 6
+                    "count": 15
                 },
                 {
                     "name": "Public Services",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&industry=49&locale=EN",
+                    "count": 7
+                },
+                {
+                    "name": "Media, Marketing, Advertising, PR, Design, Production",
+                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&industry=11&locale=EN",
                     "count": 6
                 },
                 {
@@ -23034,13 +23170,13 @@
                     "count": 4
                 },
                 {
-                    "name": "Transportation, Logistics, Warehousing, International Logistics",
-                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&industry=5&locale=EN",
-                    "count": 3
-                },
-                {
                     "name": "Construction, Real Estate, Architecture",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&industry=13&locale=EN",
+                    "count": 4
+                },
+                {
+                    "name": "Transportation, Logistics, Warehousing, International Logistics",
+                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&industry=5&locale=EN",
                     "count": 3
                 },
                 {
@@ -23107,12 +23243,12 @@
                 {
                     "name": "Between 3 and 6 years",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&experience=between3And6&locale=EN",
-                    "count": 98
+                    "count": 97
                 },
                 {
                     "name": "Between 1 and 3 years",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&experience=between1And3&locale=EN",
-                    "count": 68
+                    "count": 70
                 },
                 {
                     "name": "More than 6 years",
@@ -23122,7 +23258,7 @@
                 {
                     "name": "No experience",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&experience=noExperience&locale=EN",
-                    "count": 5
+                    "count": 4
                 }
             ]
         },
@@ -23138,22 +23274,22 @@
                 {
                     "name": "With address only",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&label=with_address&locale=EN",
-                    "count": 128
+                    "count": 130
                 },
                 {
                     "name": "Salary specified",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&label=with_salary&locale=EN",
-                    "count": 30
+                    "count": 32
                 },
                 {
                     "name": "Only vacancies suitable for people with a disability",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&label=accept_handicapped&locale=EN",
-                    "count": 8
+                    "count": 9
                 },
                 {
                     "name": "Only vacancies with less than 10 responses",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&label=low_performance&locale=EN",
-                    "count": 5
+                    "count": 3
                 },
                 {
                     "name": "Internship",
@@ -23174,7 +23310,7 @@
                 {
                     "name": "BI analyst, data analyst",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&professional_role=156&locale=EN",
-                    "count": 102
+                    "count": 103
                 },
                 {
                     "name": "Data scientist",
@@ -23184,7 +23320,7 @@
                 {
                     "name": "Product analyst",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&professional_role=164&locale=EN",
-                    "count": 16
+                    "count": 15
                 }
             ]
         },
@@ -23195,12 +23331,12 @@
                 {
                     "name": "Not required or not specified",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&education=not_required_or_not_specified&locale=EN",
-                    "count": 130
+                    "count": 132
                 },
                 {
                     "name": "Higher",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&education=higher&locale=EN",
-                    "count": 53
+                    "count": 51
                 },
                 {
                     "name": "Secondary vocational",
@@ -23227,12 +23363,12 @@
                 {
                     "name": "Full employment",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&employment_form=FULL&locale=EN",
-                    "count": 177
+                    "count": 178
                 },
                 {
                     "name": "Project work",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&employment_form=PROJECT&locale=EN",
-                    "count": 4
+                    "count": 3
                 },
                 {
                     "name": "Part-time employment",
@@ -23248,12 +23384,12 @@
                 {
                     "name": "5/2",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&work_schedule_by_days=FIVE_ON_TWO_OFF&locale=EN",
-                    "count": 177
+                    "count": 176
                 },
                 {
                     "name": "Flexible",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&work_schedule_by_days=FLEXIBLE&locale=EN",
-                    "count": 3
+                    "count": 4
                 },
                 {
                     "name": "Other",
@@ -23277,11 +23413,6 @@
                     "count": 173
                 },
                 {
-                    "name": "By agreement",
-                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&working_hours=FLEXIBLE&locale=EN",
-                    "count": 4
-                },
-                {
                     "name": "2 hours",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&working_hours=HOURS_2&locale=EN",
                     "count": 3
@@ -23289,7 +23420,12 @@
                 {
                     "name": "9 hours",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&working_hours=HOURS_9&locale=EN",
-                    "count": 2
+                    "count": 3
+                },
+                {
+                    "name": "By agreement",
+                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&working_hours=FLEXIBLE&locale=EN",
+                    "count": 3
                 },
                 {
                     "name": "4 hours",
@@ -23308,14 +23444,14 @@
                     "count": 90
                 },
                 {
-                    "name": "Hybrid",
-                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&work_format=HYBRID&locale=EN",
-                    "count": 41
-                },
-                {
                     "name": "Remote",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&work_format=REMOTE&locale=EN",
-                    "count": 39
+                    "count": 42
+                },
+                {
+                    "name": "Hybrid",
+                    "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&work_format=HYBRID&locale=EN",
+                    "count": 42
                 }
             ]
         },
@@ -23326,7 +23462,7 @@
                 {
                     "name": "Once a month",
                     "url": "https://api.hh.ru/vacancies?area=40&clusters=true&per_page=100&professional_role=156&professional_role=164&professional_role=165&salary_frequency=MONTHLY&locale=EN",
-                    "count": 13
+                    "count": 12
                 },
                 {
                     "name": "Twice a month",
